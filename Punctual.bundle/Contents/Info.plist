@@ -3,30 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>me.tonsky.keyboardlayout.universal</string>
+	<string>net.kurkin.keyboardlayout.punctual</string>
 	<key>CFBundleName</key>
-	<string>Universal</string>
+	<string>Punctual</string>
 	<key>CFBundleVersion</key>
-	<string>1.6</string>
-	<key>KLInfo_English - Universal</key>
+	<string>1.0</string>
+	<key>KLInfo_English - Punctual</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>me.tonsky.keyboardlayout.universal.english-universal</string>
+		<string>net.kurkin.keyboardlayout.punctual.english-punctual</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-GB</string>
 		<key>TISIconIsTemplate</key>
 		<true/> 
 	</dict>
-	<key>KLInfo_Russian - Universal</key>
+	<key>KLInfo_Russian - Punctual</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISInputSourceID</key>
-		<string>me.tonsky.keyboardlayout.universal.russian-universal</string>
+		<string>net.kurkin.keyboardlayout.punctual.russian-punctual</string>
 		<key>TISIntendedLanguage</key>
-		<string>ru</string>
+		<string>ru-RU</string>
 		<key>TISCapsLockIsSwitch</key>
 		<true/> 
 	</dict>
